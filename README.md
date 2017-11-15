@@ -1,5 +1,3 @@
 coderbyte
 =========
-Solutions to Coderbyte challenges at coderbyte.com
-
-My JavaScript solutions for the Coderbyte (coderbyte.com) challenges I've completed. Many have been refactored.
+Complete solutions to codebyte.com algorithmic challenges.
